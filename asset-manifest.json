@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/1Mk7i/My-react-app.git/static/css/main.cf9ad768.css",
+    "main.js": "/1Mk7i/My-react-app.git/static/js/main.cb2a3bc5.js",
+    "static/js/787.d4aba7ab.chunk.js": "/1Mk7i/My-react-app.git/static/js/787.d4aba7ab.chunk.js",
+    "static/media/priloz-fon3.jpg": "/1Mk7i/My-react-app.git/static/media/priloz-fon3.2bb3c1e1b64d4b8b5728.jpg",
+    "static/media/top-fon.jpg": "/1Mk7i/My-react-app.git/static/media/top-fon.c7e9dff4411e89f90cd3.jpg",
+    "static/media/white-fon5.jpg": "/1Mk7i/My-react-app.git/static/media/white-fon5.bf773ef813767ab9eadb.jpg",
+    "index.html": "/1Mk7i/My-react-app.git/index.html",
+    "static/media/footer-fon.jpg": "/1Mk7i/My-react-app.git/static/media/footer-fon.d76e09f4bfe72a3298c9.jpg",
+    "main.cf9ad768.css.map": "/1Mk7i/My-react-app.git/static/css/main.cf9ad768.css.map",
+    "main.cb2a3bc5.js.map": "/1Mk7i/My-react-app.git/static/js/main.cb2a3bc5.js.map",
+    "787.d4aba7ab.chunk.js.map": "/1Mk7i/My-react-app.git/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf9ad768.css",
+    "static/js/main.cb2a3bc5.js"
+  ]
+}
