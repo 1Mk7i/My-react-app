@@ -1,0 +1,53 @@
+.priloz-block {
+    background: url(/src/assets/images/priloz-fon3.jpg) center center no-repeat;
+    background-size: cover;
+  }
+  .priloz-block .block {
+    width: 50%;
+    height: auto;
+    float: left;
+  }
+  .priloz-block .block.block1 img {
+    margin-right: 50px;
+    float: right;
+    width: auto;
+    max-height: 80vh;
+    height: 520px;
+  }
+  .priloz-block .block.block2 {
+    height: auto;
+    top: 50%;
+    transform: translate(0, -50%);
+    position: absolute;
+    margin-left: 50%;
+  }
+  .priloz-block .block h2 {
+    font-family: OpenB;
+    font-size: 29px;
+    line-height: 37px;
+    margin-bottom: 20px;
+  }
+  .priloz-block .block.block2 ul {
+    list-style: none;
+    width: 100%;
+    float: left;
+    margin: 0;
+    padding: 0;
+  }
+  .priloz-block .block.block2 ul li {
+    width: auto;
+    float: left;
+    margin-right: 20px;
+  }
+  .priloz-block .block.block2 ul li a {
+    width: auto;
+    float: left;
+  }
+  .priloz-block .block.block2 ul li a img {
+    width: auto;
+    height: 45px;
+    float: left;
+  }
+  .wp-block-group.priloz-block .wp-block-group__inner-container {
+    padding-bottom: 70px !important;
+  }
