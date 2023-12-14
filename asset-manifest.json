@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/1Mk7i/My-react-app.git/static/css/main.cf9ad768.css",
-    "main.js": "/1Mk7i/My-react-app.git/static/js/main.d43ac4e3.js",
+    "main.css": "/1Mk7i/My-react-app.git/static/css/main.373f2b9d.css",
+    "main.js": "/1Mk7i/My-react-app.git/static/js/main.b9062eb4.js",
     "static/js/787.d4aba7ab.chunk.js": "/1Mk7i/My-react-app.git/static/js/787.d4aba7ab.chunk.js",
     "static/media/x11-scaled.jpg": "/1Mk7i/My-react-app.git/static/media/x11-scaled.94d8d6fb8bd1a40b27e0.jpg",
     "static/media/x22-scaled.jpg": "/1Mk7i/My-react-app.git/static/media/x22-scaled.485ba8290972f1584c23.jpg",
@@ -24,18 +24,17 @@
     "static/media/top-fon-scaled-1-768x448.jpg": "/1Mk7i/My-react-app.git/static/media/top-fon-scaled-1-768x448.039bf0139c43fd5a20b5.jpg",
     "static/media/top-fon-scaled-1-600x350.jpg": "/1Mk7i/My-react-app.git/static/media/top-fon-scaled-1-600x350.11f1f6872d8591b68bb6.jpg",
     "static/media/xdownload-button2.png": "/1Mk7i/My-react-app.git/static/media/xdownload-button2.138f5c90240400b44d50.png",
-    "static/media/loginUs.png": "/1Mk7i/My-react-app.git/static/media/loginUs.2b832e69b63f5f314a74.png",
-    "index.html": "/1Mk7i/My-react-app.git/index.html",
     "static/media/footer-fon.jpg": "/1Mk7i/My-react-app.git/static/media/footer-fon.d76e09f4bfe72a3298c9.jpg",
     "static/media/xDSC_8554-300x300.jpg.pagespeed.ic.cDBXrhtcaP.webp": "/1Mk7i/My-react-app.git/static/media/xDSC_8554-300x300.jpg.pagespeed.ic.cDBXrhtcaP.2e17f3b36c3118460650.webp",
     "static/media/xDSC_8545-300x300.jpg.pagespeed.ic.wH_ysqbB1Y.webp": "/1Mk7i/My-react-app.git/static/media/xDSC_8545-300x300.jpg.pagespeed.ic.wH_ysqbB1Y.b1c363dfa3487a84ad4d.webp",
     "static/media/xDSC_8570-300x300.jpg.pagespeed.ic.qTtINimhdU.webp": "/1Mk7i/My-react-app.git/static/media/xDSC_8570-300x300.jpg.pagespeed.ic.qTtINimhdU.dc6a10cd81011c7eb9fc.webp",
-    "main.cf9ad768.css.map": "/1Mk7i/My-react-app.git/static/css/main.cf9ad768.css.map",
-    "main.d43ac4e3.js.map": "/1Mk7i/My-react-app.git/static/js/main.d43ac4e3.js.map",
+    "index.html": "/1Mk7i/My-react-app.git/index.html",
+    "main.373f2b9d.css.map": "/1Mk7i/My-react-app.git/static/css/main.373f2b9d.css.map",
+    "main.b9062eb4.js.map": "/1Mk7i/My-react-app.git/static/js/main.b9062eb4.js.map",
     "787.d4aba7ab.chunk.js.map": "/1Mk7i/My-react-app.git/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf9ad768.css",
-    "static/js/main.d43ac4e3.js"
+    "static/css/main.373f2b9d.css",
+    "static/js/main.b9062eb4.js"
   ]
 }
