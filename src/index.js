@@ -1,10 +1,14 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+import { createRoot } from 'react-dom';
 import './index.css';
 import App from './App';
+import './styles/Mediacode.css';
+import './styles/Header.css';
 import reportWebVitals from './reportWebVitals';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+require('events').EventEmitter.defaultMaxListeners = 15;
+
+const root = createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />

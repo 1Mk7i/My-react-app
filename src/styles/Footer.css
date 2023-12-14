@@ -1,0 +1,79 @@
+.socials a {color: #fff;}
+.socials a:hover {color: #bdc3c7;}
+a, span, div, p, ul, ol, li, input, button, select, textarea, h1, h2, h3, h4, h5, h6, img {
+  text-decoration: none;
+  -moz-transition: color 0.2s 0.02s ease;
+  -o-transition: color 0.2s 0.02s ease;
+  -webkit-transition: color 0.2s 0.02s ease;
+  -webkit-transition: All 0.4s ease;
+  -moz-transition: All 0.4s ease;
+  -o-transition: All 0.4s ease;
+  -ms-transition: All 0.4s ease;
+  transition: All 0.4s ease;
+}
+.socials .social {
+  float: left;
+  width: 40px;
+  height: 40px;
+  float: left;
+  margin: 5px;
+  background: center center no-repeat;
+  background-size: auto 100%;
+  border-radius: 50%;
+}
+.footer-last {
+    height: auto;
+    line-height: auto;
+    width: 100%;
+    padding: 0;
+    border: 0;
+    margin: 0;
+    float: left;
+    float: left;
+    z-index: 9999;
+    position: relative;
+    background: #000;
+  }
+  .footer-last-in {
+    height: auto;
+    line-height: auto;
+    width: 100%;
+    padding: 22px 0;
+    border: 0;
+    margin: 0;
+    float: left;
+    position: relative;
+  }
+  .footer-last-wrapper {
+    width: 1200px;
+    margin: 0 0 0 -600px;
+    left: 50%;
+    position: relative;
+  }
+  .footer-last .footer-last-in p {
+    height: auto;
+    width: 100%;
+    padding: 0;
+    border: 0;
+    margin: 0;
+    float: none;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    color: #656565;
+    font-weight: 400;
+  }
+  .footer-last .footer-last-in p a {
+    font-size: 13px;
+    text-align: left;
+    color: #2a2a2a;
+    line-height: 18px;
+    padding-bottom: 4px;
+    float: none;
+  }
+  .footer-last .footer-last-in p a:hover {color: #fb0808;}
+  .column-contacts {
+    float: left;
+    width: 100%;
+    margin-top: 40px;
+  }
