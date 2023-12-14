@@ -2,8 +2,16 @@ import React from 'react';
 import { createRoot } from 'react-dom';
 import './index.css';
 import App from './App';
-import './styles/Mediacode.css';
+import './App.css';
 import './styles/Header.css';
+import './styles/Navigation.css';
+import './styles/Kit.css';
+import './styles/Mediacode.css';
+import './styles/Scroll.css';
+import './styles/Priloz.css';
+import './styles/Info.css';
+import './styles/Footer.css';
+
 import reportWebVitals from './reportWebVitals';
 
 require('events').EventEmitter.defaultMaxListeners = 15;
