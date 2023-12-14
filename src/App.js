@@ -1,8 +1,4 @@
 import React from 'react';
-<<<<<<< HEAD
-=======
-
->>>>>>> bfe1f53840a9465bb1c607312de356b46e0b3127
 // Імпорт стилів
 import './App.css';
 import './styles/Header.css';
