@@ -152,7 +152,11 @@ html .header .contacts div {
     color: #fff;
     font-size: 82px;
     line-height: 72px;
+<<<<<<< HEAD
     font-family: "../assets/fonts/Yanone_Kaffeesatz/YanoneKaffeesatz-Regular.ttf";
+=======
+    font-family: YanoneKaffeesatzR;
+>>>>>>> bfe1f53840a9465bb1c607312de356b46e0b3127
     text-transform: none;
     float: left;
     width: 100%;

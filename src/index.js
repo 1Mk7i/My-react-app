@@ -6,8 +6,11 @@ import './styles/Mediacode.css';
 import './styles/Header.css';
 import reportWebVitals from './reportWebVitals';
 
+<<<<<<< HEAD
 require('events').EventEmitter.defaultMaxListeners = 15;
 
+=======
+>>>>>>> bfe1f53840a9465bb1c607312de356b46e0b3127
 const root = createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
